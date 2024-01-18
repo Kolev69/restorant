@@ -1,0 +1,12 @@
+D:\RestorantGeorgi\RestorantGeorgi\bin\Debug\RestorantGeorgi.exe.config
+D:\RestorantGeorgi\RestorantGeorgi\bin\Debug\RestorantGeorgi.exe
+D:\RestorantGeorgi\RestorantGeorgi\bin\Debug\RestorantGeorgi.pdb
+D:\RestorantGeorgi\RestorantGeorgi\obj\Debug\RestorantGeorgi.csproj.AssemblyReference.cache
+D:\RestorantGeorgi\RestorantGeorgi\obj\Debug\RestorantGeorgi.csproj.SuggestedBindingRedirects.cache
+D:\RestorantGeorgi\RestorantGeorgi\obj\Debug\RestorantGeorgi.Form1.resources
+D:\RestorantGeorgi\RestorantGeorgi\obj\Debug\RestorantGeorgi.Properties.Resources.resources
+D:\RestorantGeorgi\RestorantGeorgi\obj\Debug\RestorantGeorgi.csproj.GenerateResource.cache
+D:\RestorantGeorgi\RestorantGeorgi\obj\Debug\RestorantGeorgi.csproj.CoreCompileInputs.cache
+D:\RestorantGeorgi\RestorantGeorgi\obj\Debug\RestorantGeorgi.exe
+D:\RestorantGeorgi\RestorantGeorgi\obj\Debug\RestorantGeorgi.pdb
+D:\RestorantGeorgi\RestorantGeorgi\obj\Debug\RestorantGeorgi.Form2.resources
